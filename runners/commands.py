@@ -9,3 +9,4 @@ class DriverCommand(Enum):
     SEND_KEYS = "send_keys",
     TYPE = "type",
     GET_ATTR = "get_attr"
+    GET_PAGE_SOURCE = "get_page_source"
