@@ -1,3 +1,6 @@
 2020/06/28-21:46:27.232 3056 Reusing MANIFEST /home/v-lohvyniuk/ChromeRestController/initialization/chromeprofile/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
 2020/06/28-21:46:27.232 3056 Recovering log #23
 2020/06/28-21:46:27.232 3056 Reusing old log /home/v-lohvyniuk/ChromeRestController/initialization/chromeprofile/google-chrome/Default/Local Storage/leveldb/000023.log 
+2020/06/28-21:58:33.367 5473 Level-0 table #27: started
+2020/06/28-21:58:33.619 5473 Level-0 table #27: 25187 bytes OK
+2020/06/28-21:58:33.787 5473 Delete type=0 #23
